@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+
+ <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Renata Patti</editor>
+             </titleStmt>
+
+
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+         
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher>
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>  
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+
+
+
+        <text>
+            <body>
+<pb n=""/>
+
+
+<pb n=”k1”/> <p> su <note xml:id=”k1nota1”>ejido</note>, porque tiene tanta multitud de oficinas, patios y traspatios, que forman un laberinto.</p> 
+<p> Toda la gente del <placeName key=”tucuman”>Tucuman</placeName> asegura que los santiaguinos son los mejores soldados de aquella provincia y el terror de los indios del <placeName key=”chaco”>Chaco</placeName>. En tiempo de guerra tenían continuamente colgado al arzón de la silla un costalillo de maíz tostado, con sus chifles de agua, que así llaman a los grandes cuernos de buey en que la cargan y que es mueble muy usado en toda esta provincia; y con esta sola prevención eran los primeros que se presentaban en campaña a cualquier rumor de los enemigos. Al presente hay paces con los más inmediatos de estos indios. En el interior hay muchos en número, valor y situación de terreno, y a éstos prometió en la corte sujetar el actual gobernador <persName key=”gmatorras”>don Gerónimo Matorras</persName>, ofreciendo poblar a su costa cuatro ciudades. Extraordinario servicio si pudiera conducir colonos de la <placeName key=”flandes”>Flandes</placeName> y cantones católicos. </p>
+<p> Antes de salir de esta jurisdicción, voy a proponer un problema a los sabios de <placeName key=”lima”>Lima</placeName>. Atravesando cierto español estos montes en tiempo de guerra con los indios del <placeName key=”chaco”>Chaco</placeName>, se vio precisado una noche a <pb n=”k2”/> dar descanso a su caballo, que amarró a un tronco con un lazo dilatado para que pudiese pastar cómodamente, y por no perder tiempo, se echó a dormir un rato bajo de un árbol frondoso, poniendo cerca de su cabeza una carabina proveída de dos balas. A pocos instantes sintió que le despertaban levantándole de un brazo y se halló con un indio bárbaro, armado de una lanza y con su carabina en la mano, quien le dijo con serenidad: «Español, haz tun»; esto es, que disparase para oír de cerca el ruido de la carabina. El español, echando un pie atrás, levantó el gatillo y le encajó entre pecho y espalda las dos balas al indio, de que quedó tendido.</p>
+<p>Se pregunta a los alumnos de <persName key=”marte”>Marte</persName> si la acción del español procedió de valor o de cobardía, y a los de <persName key=”minerva”>Minerva</persName> si fue o no lícita la resolución del español.</p>
+
+
+</body>
+</text>
+</TEI>
