@@ -46,10 +46,35 @@
 
         <text>
             <body>
-<pb n="k1"/> <p> su <note xml:id="k1nota1">ejido</note>, porque tiene tanta multitud de oficinas, patios y traspatios, que forman un laberinto.</p> 
-<p>Toda la gente del <placeName key="tucuman">Tucuman</placeName> asegura que los santiaguinos son los mejores soldados de aquella provincia y el terror de los indios del <placeName key="chaco">Chaco</placeName>. En tiempo de guerra tenían continuamente colgado al arzón de la silla un costalillo de maíz tostado, con sus chifles de agua, que así llaman a los grandes cuernos de buey en que la cargan y que es mueble muy usado en toda esta provincia; y con esta sola prevención eran los primeros que se presentaban en campaña a cualquier rumor de los enemigos. Al presente hay paces con los más inmediatos de estos indios. En el interior hay muchos en número, valor y situación de terreno, y a éstos prometió en la corte sujetar el actual gobernador <persName key="gmatorras">don Gerónimo Matorras</persName>, ofreciendo poblar a su costa cuatro ciudades. Extraordinario servicio si pudiera conducir colonos de la <placeName key="flandes">Flandes</placeName> y cantones católicos.</p>
+<div><pb n="k1"/> <p> su <note xml:id="k1nota1">ejido</note>, porque tiene tanta multitud de oficinas, patios y traspatios, que forman un laberinto.</p> 
+<p>Toda la gente del <placeName key="tucuman">Tucuman</placeName> asegura que los santiaguinos son los mejores soldados de aquella provincia y el terror de los indios del <placeName key="chaco">Chaco</placeName>. En tiempo de guerra tenían continuamente colgado al arzón de la silla un <note xml:id="k1nota2">costalillo</note> de maíz tostado, con sus chifles de agua, que así llaman a los grandes cuernos de buey en que la cargan y que es mueble muy usado en toda esta provincia; y con esta sola prevención eran los primeros que se presentaban en campaña a cualquier rumor de los enemigos. Al presente hay paces con los más inmediatos de estos indios. En el interior hay muchos en número, valor y situación de terreno, y a éstos prometió en la corte sujetar el actual gobernador <persName key="gmatorras">don Gerónimo Matorras</persName>, ofreciendo poblar a su costa cuatro ciudades. Extraordinario servicio si pudiera conducir colonos de la <placeName key="flandes">Flandes</placeName> y cantones católicos.</p>
 <p>Antes de salir de esta jurisdicción, voy a proponer un problema a los sabios de <placeName key="lima">Lima</placeName>. Atravesando cierto español estos montes en tiempo de guerra con los indios del <placeName key="chaco">Chaco</placeName>, se vio precisado una noche a <pb n="k2"/> dar descanso a su caballo, que amarró a un tronco con un lazo dilatado para que pudiese pastar cómodamente, y por no perder tiempo, se echó a dormir un rato bajo de un árbol frondoso, poniendo cerca de su cabeza una carabina proveída de dos balas. A pocos instantes sintió que le despertaban levantándole de un brazo y se halló con un indio bárbaro, armado de una lanza y con su carabina en la mano, quien le dijo con serenidad: «Español, haz tun»; esto es, que disparase para oír de cerca el ruido de la carabina. El español, echando un pie atrás, levantó el gatillo y le encajó entre pecho y espalda las dos balas al indio, de que quedó tendido.</p>
-<p>Se pregunta a los alumnos de <persName key="marte">Marte</persName> si la acción del español procedió de valor o de cobardía, y a los de <persName key="minerva">Minerva</persName> si fue o no lícita la resolución del español.</p>
+<p>Se pregunta a los alumnos de <persName key="marte">Marte</persName> si la acción del español procedió de valor o de cobardía, y a los de <persName key="minerva">Minerva</persName> si fue o no lícita la resolución del español.</p></div>
+<div><pb n="k3"/>
+<table>
+    <head>Jurisdicción de San Miguel del Tucumán.</head>
+    <row>
+        <cell>De Vinará a Mancopa</cell>
+        <cell>13</cell>
+    </row>
+    <row>
+        <cell>A San Miguel del Tucumán</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>Al río de Tapia</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>Al Pozo del Pescado</cell>
+        <cell>14</cell>
+    </row>
+    <row>
+        <cell>Son leguas</cell>
+        <cell>41</cell>
+    </row>
+</table>
+<p>A la salida de <placeName key="vinara">Vinará</placeName>, que dista 20 leguas de <placeName key="santiagodelestero">Santiago</placeName>, da principio la jurisdicción de <placeName key="smtucuman">San Miguel del Tucumán</placeName>, con monte más desahogado, árboles elevados y buenos pastos, y ya se empieza a ver el árbol nombrado quebracho, dicho así para significar su dureza, por romper las hachas con que se pule. Por la superficie es blanco, y suave al corte. En el centro es colorado, y sirve para columnas y otros muchos ministerios. Dicen que es incorruptible, pero yo he visto algunas columnas carcomidas. Después de labrado, o quitado todo el blanco, se echa en el agua, en donde se pone tan duro y pesado como la piedra más maciza.</p></div>
 
 
 </body>
